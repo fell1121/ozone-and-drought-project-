@@ -365,6 +365,9 @@ library(gridExtra)
 grid.arrange(arrangeGrob(fdf, ncol = 1), 
              fp1,# Second row with 2 plots in 2 different columns
              ncol = 2)
+
+![figure 2 11](https://user-images.githubusercontent.com/27037723/218239990-89437854-4096-4154-ba0e-4b272492a57e.jpeg)
+
 ############
 ##########
 
