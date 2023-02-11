@@ -40,7 +40,11 @@ plot <- ggplot() +
 plot  
 
 #export
-ggsave("/home/stathis/Desktop/plot.circles.png", plot, width = 3150, height = 2000, units = "px")
+ggsave("plot.circles.png", plot, width = 3150, height = 2000, units = "px")
+
+![0](https://user-images.githubusercontent.com/27037723/218239960-5b800007-a34e-49ae-93b3-ebd13bb4b7cb.jpeg)
+
+
 
 ######################################################
 ######################################################
